@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Minecraft development
+run/
+
+# Java
+*.class
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
